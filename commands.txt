@@ -1,0 +1,1 @@
+g++ gradients.cpp -o grad `pkg-config --cflags --libs opencv`
